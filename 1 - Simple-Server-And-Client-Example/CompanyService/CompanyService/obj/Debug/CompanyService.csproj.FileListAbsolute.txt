@@ -1,0 +1,6 @@
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.dll.config
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\bin\Debug\CompanyService.pdb
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.pdb
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.csprojResolveAssemblyReference.cache

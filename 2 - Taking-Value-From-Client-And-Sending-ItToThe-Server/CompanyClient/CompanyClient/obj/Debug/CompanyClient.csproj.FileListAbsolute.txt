@@ -1,0 +1,12 @@
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\bin\CompanyClient.dll.config
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\bin\CompanyClient.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\bin\CompanyClient.pdb
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.pdb
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\bin\CompanyClient.dll.config
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\bin\CompanyClient.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\bin\CompanyClient.pdb
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\obj\Debug\CompanyClient.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\obj\Debug\CompanyClient.dll
+C:\Users\Ewerdney\Desktop\My Projects\WCF\2 - Taking-Value-From-Client-And-Sending-ItToThe-Server\CompanyClient\CompanyClient\obj\Debug\CompanyClient.pdb
